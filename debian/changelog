@@ -1,0 +1,8 @@
+ros-indigo-rosprofiler (0.1.0-0trusty) trusty; urgency=high
+
+  * Initial Release
+  * Contributors: William Woodall, dan brooks
+
+ -- Dan Brooks <dan@osrfoundation.org>  Mon, 18 Aug 2014 07:00:00 -0000
+
+
