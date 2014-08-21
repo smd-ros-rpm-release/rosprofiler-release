@@ -1,0 +1,18 @@
+ros-indigo-rosprofiler (0.1.1-0trusty) trusty; urgency=high
+
+  * Fixes Issue #5
+  * Fixes tests
+  * Added additional dependencies to package.xml
+  * Cleaned up CMakeLists.txt
+  * Contributors: William Woodall, dan brooks
+
+ -- Dan Brooks <dan@osrfoundation.org>  Wed, 20 Aug 2014 07:00:00 -0000
+
+ros-indigo-rosprofiler (0.1.0-0trusty) trusty; urgency=high
+
+  * Initial Release
+  * Contributors: William Woodall, dan brooks
+
+ -- Dan Brooks <dan@osrfoundation.org>  Mon, 18 Aug 2014 07:00:00 -0000
+
+
