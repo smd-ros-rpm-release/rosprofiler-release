@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>rosprofiler</name>
-  <version>0.1.0</version>
+  <version>0.1.1</version>
   <description>The rosprofiler package</description>
   <maintainer email="dan@osrfoundation.org">Dan Brooks</maintainer>
   <license>Apache 2.0</license>
@@ -16,7 +16,10 @@
 
   <run_depend>ros_statistics_msgs</run_depend>
   <run_depend>ros_topology_msgs</run_depend>
+  <run_depend>rosgraph</run_depend>
+  <run_depend>rosnode</run_depend>
   <run_depend>rospy</run_depend>
+  <run_depend>python-psutil</run_depend>
 
   <test_depend>rospy_tutorials</test_depend>
   <test_depend>rostest</test_depend>
